@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash-dubey-2806
-- 👀 I’m interested in Flutter & Mobile Development
-- 🌱 I’m currently learning Firebase and mobile development
+- 👀 I’m interested in Flutter & Mobile Software Development
+- 🌱 I’m currently learning Firebase and Bloc State Management 
 - 💞️ I’m looking to collaborate on Flutter Related Projects
 - 📫 How to reach me yash.baelworks@gmail.com
 
